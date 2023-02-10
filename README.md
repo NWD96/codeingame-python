@@ -1,1 +1,3 @@
-# codeingame-python
+# Code Ingame: Python
+
+Some solution for exercices
